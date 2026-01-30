@@ -1,0 +1,32 @@
+﻿/* Reset some default browser styles */
+body {
+ margin: 0;
+ font-family: Arial, sans-serif;
+
+ background-color: #f4f4f4;
+}
+/* Header style */
+header {
+ background-color: #2c3e50;
+ color: white;
+ padding: 30px;
+ text-align: center;
+}
+/* Content style */
+main {
+ background-color: white;
+ padding: 20px;
+ margin: 20px;
+ border-radius: 8px;
+}
+
+/* Footer style */
+footer {
+ background-color: #333;
+ color: white;
+ text-align: center;
+ padding: 15px;
+ position: fixed;
+ bottom: 0;
+ width: 100%;
+}
